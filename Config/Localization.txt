@@ -1,0 +1,6 @@
+Key,File,Type,UsedInMainMenu,NoTranslate,english
+{my_key},{xml_file},{type_of_object},{true/false/null},{true/false/null},"{Localized_Name_Eng}"
+resourceBlunderbussBall,items,item,,,"Blunderbuss Ball"
+resourceBlunderbussBallDesc,items,item,,,"This is a solid lead ball that is used in making ammo for the blunderbuss."
+ammoBlunderbussBall,items,item,,,"Blunderbuss Ball Ammo"
+ammoBlunderbussBallDesc,items,item,,,"This is ammo used in the blunderbuss, using a solid lead ball instead of peebles."

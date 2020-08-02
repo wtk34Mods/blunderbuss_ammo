@@ -1,0 +1,11 @@
+<configs>
+<append xpath="//lootgroup[@name='junk']">
+	<item name="ammoBlunderbussBall" count="3,6"/>
+	<item name="ammoBlunderbussBallSchematic"/>
+</append>
+
+<append xpath="//lootgroup[@name='groupAmmoRegularT0']">
+	<item name="ammoBlunderbussBall" count="3,6"/>
+</append>
+
+</configs>
