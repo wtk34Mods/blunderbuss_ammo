@@ -1,0 +1,10 @@
+<Config>
+<append xpath="/ui_display_info/item_display">
+	<item_display_info display_group="groupAmmo" display_type="ammoBlunderbussBall">
+		<display_entry title_key="statEntityDamageRanged" name="EntityDamage"/>
+		<display_entry title_key="statBlockDamage" name="BlockDamage"/>
+		<display_entry title_key="EntityPenetrationCount" name="EntityPenetrationCount"/>
+		<display_entry display_type="Percent" title_key="statDegradationPerUse" name="dDegradationPerUse" negative_preferred="true"/>
+	</item_display_info>
+</append>
+</Config>
