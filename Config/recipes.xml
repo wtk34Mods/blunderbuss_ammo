@@ -6,12 +6,12 @@
 		<ingredient name="unit_clay" count="3" />
 	</recipe>
 	
-	<recipe name="ammoBlunderbussBall" craft_area="workbench" craft_time="45" tags="learnable">
+	<recipe name="ammoBlunderbussBall" craft_area="workbench" craft_time="45" tags="learnable,perkBoomstick">
 		<ingredient name="resourceBlunderbussBall" count="1"/>
 		<ingredient name="resourcePaper" count="2"/>
 		<ingredient name="resourceGunPowder" count="2"/>
 	</recipe>
 
 </append>
-	
+
 </configs>
